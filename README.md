@@ -37,9 +37,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Leeexyy4/Leeexyy4/output/snake.svg" alt="Snake animation" />
-
-###
